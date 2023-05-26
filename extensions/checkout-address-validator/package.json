@@ -1,0 +1,14 @@
+{
+  "name": "checkout-address-validator",
+  "version": "1.0.0",
+  "main": "dist/main.js",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "@shopify/checkout-ui-extensions-react": "^0.26.0",
+    "emoji-regex": "^10.2.1",
+    "react": "^17.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0"
+  }
+}

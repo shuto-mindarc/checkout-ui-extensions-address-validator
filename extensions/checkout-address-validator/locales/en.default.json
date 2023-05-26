@@ -1,0 +1,10 @@
+{
+  "fieldErrors": {
+    "firstName": "Invalid characters in First name.",
+    "lastName": "Invalid characters in Last name.",
+    "address1": "Invalid characters in Address.",
+    "address2": "Invalid characters in Address line 2.",
+    "city": "Invalid characters in City.",
+    "zip": "Invalid characters in Postcode."
+  }
+}
