@@ -13,6 +13,7 @@ function App() {
     address2: false,
     postCode: false,
     city: false,
+    phone: false
   });
 
   // Shopify Hooks
@@ -28,6 +29,7 @@ function App() {
     address2: address?.address2 ?? "No address2",
     zip: address?.zip ?? "No postcode",
     city: address?.city ?? "No city",
+    phone: address?.phone ?? "No phone"
   };
 
   const handleSetErrors = () => {
